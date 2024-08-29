@@ -1,2 +1,11 @@
-# Sales_Analysis
-This repository features a Power BI dashboard for Northwind Traders, offering insights into sales, customer behavior, inventory trends, and employee performance. It integrates data from multiple tables, providing interactive visualizations and dynamic filters to aid decision-making and drive business competitiveness in the wholesale market
+**Sales Analysis Project
+
+Conducted a comprehensive analysis of the Northwind Traders database. The project involved detailed examination and 
+visualization of various data tables, including Customers, Employees, Orders, Order Details, Products, Suppliers, Shippers, 
+and Categories. Key achievements include:
+** Analyzed Order Processing Time: Evaluated trends in average order processing times across multiple years, 
+identifying areas for process optimization.
+** Sales Performance Evaluation: Assessed individual sales performance, highlighting contributions and identifying topperforming employees.
+** Price Structure and Supplier Analysis: Examined product pricing structures and supplier distributions, providing 
+insights for cost management and supplier relationship enhancement.
+** Data Visualization: Created visual representations of key metrics to facilitate data-driven decision-making.
